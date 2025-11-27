@@ -70,13 +70,28 @@ flutter run
 ## 📸 Captures d'Écran
 
 ### Page d'Accueil
+![Page d'Accueil](assets/images/screenshots/image1.png)
 Interface de bienvenue avec image de globe terrestre
 
 ### Liste des Pays
+![Liste des Pays](assets/images/screenshots/image2.png)
 Affichage des pays avec drapeaux miniatures
 
 ### Détails du Pays
+![Détails du Pays](assets/images/screenshots/image3.png)
 Informations complètes avec drapeau en grand format
+
+### Menu Latéral
+![Menu Latéral](assets/images/screenshots/image4.png)
+Navigation facile entre les pages
+
+### Page À Propos
+![Page À Propos](assets/images/screenshots/image5.png)
+Informations sur l'application
+
+### Vue Complète
+![Vue Complète](assets/images/screenshots/image6.png)
+Aperçu général de l'application
 
 ## 🎨 Assets Requis
 
