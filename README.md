@@ -82,16 +82,16 @@ Affichage des pays avec drapeaux miniatures
 Informations complètes avec drapeau en grand format
 
 ### Menu Latéral
-![Menu Latéral](assets/images/screenshots/image4.png)
-Navigation facile entre les pages
-
-### Page À Propos
-![Page À Propos](assets/images/screenshots/image5.png)
+![Page À Propos](assets/images/screenshots/image4.png)
 Informations sur l'application
 
-### Vue Complète
-![Vue Complète](assets/images/screenshots/image6.png)
-Aperçu général de l'application
+### Page À Propos
+![Menu Latéral](assets/images/screenshots/image5.png)
+Navigation facile entre les pages
+
+### Quitter l'App
+![Quitter l'App](assets/images/screenshots/image6.png)
+Fonctionnalité de sortie de l'application
 
 ## 🎨 Assets Requis
 
